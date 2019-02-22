@@ -1,2 +1,2 @@
 # git-hub-repo
-trying to learn github
+trying to learn github through www.lynda.com
